@@ -1,2 +1,0 @@
-# wombos
-Wombo aleatorio lol
